@@ -1,0 +1,5 @@
+*.hdf
+*.pdf
+
+au/install/data/
+default/install/data/
